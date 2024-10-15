@@ -1,6 +1,0 @@
-
-# IESB - CONSTRUÇÃO DE FRONT END
-
-# MAYK KAUÃ DE OLIVEIRA 
-
-## 2024 / 2°
